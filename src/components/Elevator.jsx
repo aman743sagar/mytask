@@ -1,8 +1,5 @@
 
-import CrisisAlertIcon from '@mui/icons-material/CrisisAlert';
-import SwapVertIcon from '@mui/icons-material/SwapVert';
-import RoomIcon from '@mui/icons-material/Room';
-import ElevatorIcon from '@mui/icons-material/Elevator';
+
 export default function Elevator({ data }) {
   // console.log("dsfdsfjksfdn",data);
     return (
