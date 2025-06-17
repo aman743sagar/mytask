@@ -5,7 +5,7 @@ import Elevator from "./components/Elevator";
 import Controls from "./components/Controls";
 import Metrics from "./components/Metrics";
 
-const API = "http://localhost:5000";
+const API = "https://mytaskb.onrender.com";
 
 function App() {
   // State to store elevator and request data
